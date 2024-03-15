@@ -38,8 +38,8 @@ To get started with the ToDoList application, follow the steps below:
 
 7.**API Documentation**: Access the Swagger documentation for the backend API by following these steps:
 
-	Open your web browser and navigate to Swagger Editor.
-	Once the Swagger Editor is open, locate the options.json file located in the backend/src/APIdocumentation/ directory of your project.
+	Open your web browser and navigate to Swagger Editor.  https://editor.swagger.io/
+	Once the Swagger Editor is open, locate the options.json file located in the TeamTracker-main directory of your project.
 	Open the options.json file and copy its contents.
 	Paste the copied JSON content into the Swagger Editor.
 	You should now see the API documentation displayed in the Swagger Editor, allowing you to explore and interact with the backend API endpoints. 
