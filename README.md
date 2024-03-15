@@ -1,8 +1,6 @@
 # ToDoList Web Application
 
-Welcome to the ToDoList web application! This application allows users to manage their tasks effectively by providing features for creating, updating, and deleting tasks.
-
-## Getting Started
+Welcome to the ToDoList web application! This application allows users to manage their tasks effectively.
 
 To get started with the ToDoList application, follow the steps below:
 
